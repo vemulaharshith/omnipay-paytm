@@ -1,5 +1,5 @@
 {
-    "name": "sumityadav/omnipay-paytm",
+    "name": "vemulaharshith/omnipay-paytm",
     "type": "library",
     "description": "PayTm driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,12 +10,12 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/sumityadav/omnipay-paytm",
+    "homepage": "https://github.com/vemulaharshith/omnipay-paytm",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sumit Kumar",
-            "email": "sumi.yadav@gmail.com"
+            "name": "Harshith",
+            "email": "harshithvemula35@gmail.com"
         }
     ],
     "autoload": {
