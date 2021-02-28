@@ -22,7 +22,7 @@
         "psr-4": { "Omnipay\\Paytm\\" : "src/" }
     },
    "require": {
-        "omnipay/common": "~2.0",
+        "omnipay/common": "~3.0.5",
         "phpseclib/phpseclib": "^2.0"
     },
     "require-dev": {
